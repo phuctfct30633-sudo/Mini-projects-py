@@ -1,0 +1,40 @@
+# Mỗi dòng là 1 từ hoặc cụm từ. Dòng bắt đầu bằng # là ghi chú.
+# Lưu file ở định dạng UTF-8. Thêm/sửa từ rồi bắt đầu ván mới là có hiệu lực.
+Đại học Cần Thơ
+CTU
+Khu II
+Đại lộ Hòa Bình
+Trung tâm Học liệu
+Trường Công nghệ Thông tin và Truyền thông
+CICT
+Nhà học thực hành
+Sinh viên K52
+Khoa học máy tính
+Kỹ thuật phần mềm
+An toàn thông tin
+An ninh mạng
+Bảo mật dữ liệu
+Mã hóa
+Mật mã học
+Mạng máy tính
+Tường lửa
+Mã độc
+Hacker
+Phòng thủ mạng
+Tấn công mạng
+Bảo mật hệ thống
+Lập trình
+Python
+Pygame
+Gõ phím
+Tốc độ
+Điểm số
+Kỷ lục
+Bàn phím cơ
+Game thủ
+War Thunder
+Minecraft
+osu!
+Elden Ring
+Trò chơi điện tử
+Kỹ năng

@@ -1,3 +1,0 @@
-# Mỗi dòng là 1 từ hoặc cụm từ. Dòng bắt đầu bằng # là ghi chú.
-# Lưu file ở định dạng UTF-8. Thêm/sửa từ rồi bắt đầu ván mới là có hiệu lực.
-wordtest1
